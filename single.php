@@ -55,7 +55,7 @@ include('./includes/nav.php');
                         Sequi mollitia, necessitatibus quae sint natus.</p>
                     <small class="text-muted">Posted by Anonymous on 3/1/17</small>
                     <hr>
-                    <a href="./MpesaProcessor.php?amount=2" class="btn btn-success">checkout</a>
+                    <a href="./MpesaProcessor.php?amount=1" class="btn btn-success">checkout</a>
                 </div>
             </div>
             <!-- /.card -->

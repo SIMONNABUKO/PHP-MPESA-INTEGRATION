@@ -63,10 +63,10 @@ function lipaNaMpesaPassword()
             'Timestamp' => Carbon::rawParse('now')->format('YmdHms'),
             'TransactionType' => 'CustomerPayBillOnline',
             'Amount' => $amount,
-            'PartyA' => "254726582228",
+            'PartyA' => "254790765441",
             'PartyB' => 174379,
-            'PhoneNumber' => "254726582228",
-            'CallBackURL' => 'https://mywebsite.com/confirmationProcessor.php',
+            'PhoneNumber' => "254790765441",
+            'CallBackURL' => 'https://60a8b840129d.ngrok.io/callback',
             'AccountReference' => "Simon's Tech School Payment",
             'TransactionDesc' => "lipa Na M-PESA"
         ];
